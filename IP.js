@@ -1,3 +1,5 @@
+//Console.log("Coded By MamaD")
+
 // $(document).ready(function(){
 //     $("button").click(function(){
 //       $.get("https://api.ipify.org", function(data, status){
